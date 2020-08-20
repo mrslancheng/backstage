@@ -7,7 +7,7 @@
 # 登录
 
 登录页截图如下：
-![image](https://github.com/mrslancheng/vue-image/blob/master/login.png) 
+![image](https://github.com/mrslancheng/vue-image/blob/master/login4.jpg) 
 
 # 首页
 
