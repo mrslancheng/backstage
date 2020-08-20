@@ -1,6 +1,6 @@
-# 后台管理系统软件V1.0
+# vue-project-admin
 
-> 简单的后台管理系统
+> 后台管理系统软件V1.0
 
 ## Build Setup
 
