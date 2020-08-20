@@ -1,6 +1,6 @@
 # vue-project-admin
 
-> 后台管理系统软件V1.0（使用到是技术栈：vue+element+bus总线）
+> 后台管理系统软件V1.0（使用的技术栈有：vue+element+bus总线）
 
 ## 项目截图
 
