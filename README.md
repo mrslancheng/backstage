@@ -13,7 +13,7 @@
 # 安装依赖
 npm install
 
-# 启动vue项目  //可以使用localhost:8080、固定IP两种方式打开
+# 启动vue项目  //可以使用localhost:8080、192.168.1.70:8080两种方式打开
 npm run dev
 
 # 项目打包命令
