@@ -6,11 +6,12 @@
 
 # 登录
 
-登录login图![](https://github.com/mrslancheng/vue-image/blob/master/login.png) 
+登录login图![image](https://github.com/mrslancheng/vue-image/blob/master/login.png) 
 
 # 首页
 
-首页图 ![](https://github.com/mrslancheng/vue-image/blob/master/index.png)
+首页图 ![image](https://github.com/mrslancheng/vue-image/blob/master/index.png)
+![image](https://github.com/panacena/mengqu/blob/master/readme/Screenshot_2016-07-10-22-17- 15_zkk.com.mengqu.png)
 
 ``` bash
 # 安装依赖
