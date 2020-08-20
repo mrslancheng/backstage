@@ -14,6 +14,25 @@
 首页截图如下：
 ![image](https://github.com/mrslancheng/vue-image/blob/master/index2.png)
 
+# 前言
+
+该项目一套多功能的后台管理模板，适用于80%的后台管理系统开发。基于VUE,使用Element-UI框架；可快速完成后台管理开发与二次开发。
+
+#功能
+
+Element UI
+登录/注销
+窗口最大化
+案件列表
+权限管理
+系统日志
+用户信息
+404
+进度条插件
+AXIOS
+路由守卫
+
+# 安装步骤
 
 ``` bash
 # 安装依赖
@@ -25,8 +44,4 @@ npm run dev
 # 项目打包命令
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
