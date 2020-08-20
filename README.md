@@ -1,6 +1,6 @@
-# vue-project
+# 后台管理系统软件V1.0
 
-> first project
+> 简单的后台管理系统
 
 ## Build Setup
 
