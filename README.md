@@ -6,11 +6,13 @@
 
 # 登录
 
-登录login图![image](https://github.com/mrslancheng/vue-image/blob/master/login.png) 
+登录页截图如下：
+![image](https://github.com/mrslancheng/vue-image/blob/master/login.png) 
 
 # 首页
 
-首页图 ![image](https://github.com/mrslancheng/vue-image/blob/master/index.png)
+首页截图如下：
+![image](https://github.com/mrslancheng/vue-image/blob/master/index2.png)
 
 
 ``` bash
