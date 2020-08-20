@@ -1,8 +1,13 @@
 # vue-project-admin
 
-> 后台管理系统软件V1.0
+> 后台管理系统软件V1.0（使用到是技术：vue+element+bus）
 
-## Build Setup
+## 项目截图
+
+# 登录
+
+
+
 
 ``` bash
 # install dependencies
