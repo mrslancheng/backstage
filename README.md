@@ -1,6 +1,6 @@
 # vue-project-admin
 
-> 后台管理系统软件V1.0（使用到是技术：vue+element+bus）
+> 后台管理系统软件V1.0（使用到是技术栈：vue+element+bus总线）
 
 ## 项目截图
 
@@ -10,13 +10,13 @@
 
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 启动vue项目  //可以使用localhost:8080、固定IP两种方式打开
 npm run dev
 
-# build for production with minification
+# 项目打包命令
 npm run build
 
 # build for production and view the bundle analyzer report
