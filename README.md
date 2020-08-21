@@ -10,10 +10,10 @@
 
 # 首页
 
-![image](https://github.com/mrslancheng/vue-image/blob/master/index2.png)
+![image](https://github.com/mrslancheng/vue-image/blob/master/index3.jpg)
 
 # 赞赏
-![image](https://github.com/mrslancheng/vue-image/blob/master/zs.jpg)
+![image](https://github.com/mrslancheng/vue-image/blob/master/zs2.jpg)
 
 # 前言
 
