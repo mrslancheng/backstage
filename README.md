@@ -34,6 +34,7 @@ AXIOS<br/>
 路由守卫<br/>
 
 # 项目文件说明
+
 build  &nbsp;&nbsp;----------------- 存放项目构建webpack相关代码  <br/>
 config ----------------- 用于指定开发和打包中的静态资源路径，要压缩的文件类型，开发使用的端口号<br/>
 dist   &nbsp;&nbsp;&nbsp;&nbsp;----------------- 用于存放项目打包后文件<br/>
@@ -66,3 +67,4 @@ npm run dev
 npm run build
 
  
+```
