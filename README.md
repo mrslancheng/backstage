@@ -46,7 +46,7 @@ src   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;----------------- 经常操作使用的文�
  &nbsp;&nbsp;&nbsp;&nbsp;router   ------------- &nbsp;index.js放置路由设置文件<br/>
  &nbsp;&nbsp;&nbsp;&nbsp;App.vue   ----------- &nbsp;入口组件，page里的组件会被插入到此组件中<br/>
  &nbsp;&nbsp;&nbsp;&nbsp;main.js    ------------- 入口JS文件，影响全局，作用是引入全局使用的库、公共样式、方法、设置路由守卫等<br/>
-static   ------------------ 静态资源文件夹，放置不会变动的资源文件，打包过程中不会改变此文件夹中的内容只会原样复制过去<br/>
+static   ------------------ 静态资源文件夹，打包过程中不会改变此文件夹中的内容只会原样复制过去<br/>
 index.html   ------------ 本地打开的index页面<br/>
 package.json   --------- &nbsp;存放引用项目名称、版本号、作者、项目启动命令、依赖库文件版本等信息（注：最好不要随意修改）<br/>
 package-lock.json   ---- 用于锁定安装时包的版本号，在项目上传到github时保证其他人在npm install时大家的依赖能保持一致（注：最好不要随意修改）<br/>
@@ -68,5 +68,3 @@ npm run dev
 npm run build
 
  
-
-
