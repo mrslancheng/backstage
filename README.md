@@ -6,12 +6,10 @@
 
 # 登录
 
-登录页截图如下：
 ![image](https://github.com/mrslancheng/vue-image/blob/master/login4.jpg) 
 
 # 首页
 
-首页截图如下：
 ![image](https://github.com/mrslancheng/vue-image/blob/master/index2.png)
 
 # 赞赏
@@ -49,7 +47,7 @@ src   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;----------------- 经常操作使用的文�
 static   ------------------ 静态资源文件夹，打包过程中不会改变此文件夹中的内容只会原样复制过去<br/>
 index.html   ------------ 本地打开的index页面<br/>
 package.json   --------- &nbsp;存放引用项目名称、版本号、作者、项目启动命令、依赖库文件版本等信息（注：最好不要随意修改）<br/>
-package-lock.json   ---- 用于锁定安装时包的版本号，在项目上传到github时保证其他人在npm install时大家的依赖能保持一致（注：最好不要随意修改）<br/>
+package-lock.json   ---- 锁定安装时包的版本号，在项目上传到github时保证其他人在npm install时大家的依赖能保持一致（注：不要更改）<br/>
 
 
 # 安装步骤
